@@ -1,8 +1,9 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <removed_mapping ext="yml" type="YAML" />
-      <mapping ext="yml" type="YAML_EX" />
+      <mapping ext="yml" type="YAML" />
+      <removed_mapping ext="yaml" type="YAML" />
+      <removed_mapping ext="yml" type="YAML_EX" />
       <removed_mapping ext="yaml" approved="true" type="YAML_EX" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
