@@ -2,9 +2,9 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="license/hugo-book-license" type="AUTO_DETECTED" />
-      <removed_mapping ext="yml" type="YAML" />
-      <removed_mapping ext="yaml" type="YAML" />
-      <mapping ext="yml" type="YAML_EX" />
+      <mapping ext="yaml" type="YAML" />
+      <mapping ext="yml" type="YAML" />
+      <removed_mapping ext="yml" type="YAML_EX" />
       <removed_mapping ext="yaml" approved="true" type="YAML_EX" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
