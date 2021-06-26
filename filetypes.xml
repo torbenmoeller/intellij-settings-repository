@@ -4,7 +4,8 @@
       <mapping pattern="MIT-LICENSE" type="AUTO_DETECTED" />
       <mapping pattern="license/hugo-book-license" type="AUTO_DETECTED" />
       <mapping ext="0" type="PLAIN_TEXT" />
-      <mapping ext="yaml" type="YAML" />
+      <mapping ext="yml" type="YAML" />
+      <removed_mapping ext="yaml" type="YAML" />
       <removed_mapping ext="yaml" approved="true" type="YAML_EX" />
       <removed_mapping ext="yml" approved="true" type="YAML_EX" />
       <mapping ext="gradle.kts" type="Kotlin" />
