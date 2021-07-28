@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="MIT-LICENSE" type="AUTO_DETECTED" />
       <mapping pattern="license/hugo-book-license" type="AUTO_DETECTED" />
+      <removed_mapping ext="graphqlconfig" type="JSON" />
       <mapping ext="0" type="PLAIN_TEXT" />
       <removed_mapping ext="yml" type="YAML" />
       <removed_mapping ext="yaml" approved="true" type="YAML_EX" />
