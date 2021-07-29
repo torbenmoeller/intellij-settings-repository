@@ -1,12 +1,12 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="MIT-LICENSE" type="AUTO_DETECTED" />
       <mapping pattern="license/hugo-book-license" type="AUTO_DETECTED" />
-      <removed_mapping ext="graphqlconfig" type="JSON" />
+      <mapping pattern="MIT-LICENSE" type="AUTO_DETECTED" />
       <mapping ext="0" type="PLAIN_TEXT" />
-      <removed_mapping ext="yml" type="YAML" />
+      <removed_mapping ext="graphqlconfig" approved="true" type="JSON" />
       <removed_mapping ext="yaml" approved="true" type="YAML_EX" />
+      <removed_mapping ext="yml" approved="true" type="YAML" />
       <removed_mapping ext="yml" approved="true" type="YAML_EX" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
